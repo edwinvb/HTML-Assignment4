@@ -9,6 +9,10 @@ body {
 	font-size: 20px;
 }
 
+#colorMe {
+	background-color: rgb(226, 168, 43);
+}
+
 header,
 main,
 footer {

@@ -5,6 +5,9 @@ body {
 	background-color: rgb(248, 183, 183);
 	font-size: 62.5%;
 }
+.textSizeUp {
+	font-size: 20px;
+}
 
 header,
 main,
@@ -21,7 +24,9 @@ header h1 {
 	text-align: center;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
 	margin: 0;
 }
 
